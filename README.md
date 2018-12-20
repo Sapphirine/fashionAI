@@ -11,12 +11,19 @@ After downloading the data, we preprocessed the data and trained 8 models sepera
 You could get access to the data preprocess, image augmentation process, training models, training and test accuracy in 8 notebooks:
 
 inceptionV3_imgaug_lapel_design.ipynb
+
 inceptionV3_imgaug_neckline_design.ipynb
+
 inceptionV3_imgaug_pant_length.ipynb
+
 inceptionV3_imgaug_sleeve_length.ipynb
+
 resnet50_imgaug_coat_length.ipynb
+
 resnet50_imgaug_collar_design.ipynb
+
 resnet50_imgaug_neck_design.ipynb
+
 resnet50_imgaug_skirt_length.ipynb
 
 Prediction Results
