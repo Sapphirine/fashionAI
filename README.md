@@ -8,9 +8,16 @@ Training Process
 ----------------
 After downloading the data, we preprocessed the data and trained 8 models seperately for 8 tasks (4 tasks related to length: coat_length, skirt_lenth, sleeve_length, pant_length; 4 tasks related to design: neckline_design, collar_design, neck_design, lapel_design).
 
-You could get access to the data preprocess, training model, training and test accuracy in 8 notebooks:
+You could get access to the data preprocess, image augmentation process, training models, training and test accuracy in 8 notebooks:
 
-As you could see that 
+inceptionV3_imgaug_lapel_design.ipynb
+inceptionV3_imgaug_neckline_design.ipynb
+inceptionV3_imgaug_pant_length.ipynb
+inceptionV3_imgaug_sleeve_length.ipynb
+resnet50_imgaug_coat_length.ipynb
+resnet50_imgaug_collar_design.ipynb
+resnet50_imgaug_neck_design.ipynb
+resnet50_imgaug_skirt_length.ipynb
 
 Prediction Results
 ----------------
