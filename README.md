@@ -31,7 +31,7 @@ Prediction Results
 
 We saved our method of combining 8 models and giving out final resualts of prediction in prediction.py
 
-And we gave out prediction results for several images in prediction.ipynb
+And we gave out prediction results for several images in Combined_Prediction.ipynb
 
 Model Saving
 ----------------
